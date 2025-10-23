@@ -1,0 +1,4 @@
+[submodule "rng-game/hello-world"]
+	path = rng-game/hello-world
+	url = https://github.com/subhadeep-sengupta/hello-world.git
+	branch = main
