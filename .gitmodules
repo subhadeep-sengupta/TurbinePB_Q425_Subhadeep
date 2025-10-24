@@ -11,3 +11,12 @@
 [submodule "rng-game/rust-counter"]
 	path = rng-game/rust-counter
 	url = https://github.com/subhadeep-sengupta/rust-counter.git
+[submodule "my-grep"]
+	path = my-grep
+	url = https://github.com/subhadeep-sengupta/my-grep.git
+[submodule "sol-counter"]
+	path = sol-counter
+	url = https://github.com/subhadeep-sengupta/sol-counter.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/subhadeep-sengupta/rustlings.git
