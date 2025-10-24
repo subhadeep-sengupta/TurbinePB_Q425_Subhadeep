@@ -2,3 +2,12 @@
 	path = rng-game/hello-world
 	url = https://github.com/subhadeep-sengupta/hello-world.git
 	branch = main
+[submodule "rng-game/guess-the-number"]
+	path = rng-game/guess-the-number
+	url = https://github.com/subhadeep-sengupta/guess-the-number.git
+[submodule "rng/rust-counter"]
+	path = rng/rust-counter
+	url = https://github.com/subhadeep-sengupta/rust-counter.git
+[submodule "rng-game/rust-counter"]
+	path = rng-game/rust-counter
+	url = https://github.com/subhadeep-sengupta/rust-counter.git
