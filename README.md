@@ -12,4 +12,12 @@ Here I am keeping track of everything about Turbine Pre-Builders.
 
 [rust-counter](https://github.com/subhadeep-sengupta/rust-counter.git) - Add or Substact from the counter.
 
+### ⛓️ Solana
 [sol-counter](https://github.com/subhadeep-sengupta/sol-counter.git) - Implemented the counter program in Solana.
+
+## 🗓️ week 2
+[token-mint](https://github.com/subhadeep-sengupta/token-mint.git) - Mint your own SPL Token with Token Metadata.
+
+[token-vault](https://github.com/subhadeep-sengupta/token-vault.git) - Deposit tokens in the vault with the safety of Solana.
+
+[token-escrow](https://github.com/subhadeep-sengupta/token-escrow.git) - Swap Tokens trustlessly.

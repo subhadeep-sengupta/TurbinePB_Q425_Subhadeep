@@ -20,3 +20,12 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/subhadeep-sengupta/rustlings.git
+[submodule "token-mint"]
+	path = token-mint
+	url = https://github.com/subhadeep-sengupta/token-mint.git
+[submodule "token-vault"]
+	path = token-vault
+	url = https://github.com/subhadeep-sengupta/token-vault.git
+[submodule "token-escrow"]
+	path = token-escrow
+	url = https://github.com/subhadeep-sengupta/token-escrow.git
