@@ -29,3 +29,9 @@
 [submodule "token-escrow"]
 	path = token-escrow
 	url = https://github.com/subhadeep-sengupta/token-escrow.git
+[submodule "nft-collection"]
+	path = nft-collection
+	url = git@github.com:subhadeep-sengupta/nft-collection.git
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = git@github.com:subhadeep-sengupta/nft-marketplace.git

@@ -21,3 +21,9 @@ Here I am keeping track of everything about Turbine Pre-Builders.
 [token-vault](https://github.com/subhadeep-sengupta/token-vault.git) - Deposit tokens in the vault with the safety of Solana.
 
 [token-escrow](https://github.com/subhadeep-sengupta/token-escrow.git) - Swap Tokens trustlessly.
+
+## week 3 
+[nft-collection-mint](git@github.com:subhadeep-sengupta/nft-collection.git) - Mint your own NFT Collection.
+
+## week 4 
+[nft-marketplace](git@github.com:subhadeep-sengupta/nft-marketplace.git) - A Minimal NFT Marketplace for fixed price trading.
