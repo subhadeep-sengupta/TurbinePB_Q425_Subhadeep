@@ -38,3 +38,6 @@
 [submodule "tinysearch"]
 	path = tinysearch
 	url = git@github.com:subhadeep-sengupta/tinysearch.git
+[submodule "rustserver"]
+	path = rustserver
+	url = git@github.com:subhadeep-sengupta/rustserver.git
